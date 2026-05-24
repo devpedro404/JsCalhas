@@ -1,4 +1,4 @@
-// script.js - TelhaPrime
+// script.js - JSCalhas
 // Módulos de funcionalidades: serviços, galeria, orçamento, avaliação, slider, accordion, animações etc.
 
 document.addEventListener('DOMContentLoaded', () => {
