@@ -11,7 +11,11 @@ Site profissional para empresa especializada em **Caslhas, rufos e telhados**. D
 
 ## Página Inicial - Hero Section 
 
+<<<<<<< HEAD
 ![Hero Section](JScalhas-site.jpg)
+=======
+![Hero Section](./img/image.png)
+>>>>>>> 5bb2131 (Descrição da alteração)
 *Banner principal com chamada para ação e cards fluentes de beneficios*
 
 ## 🖥️ Demonstração
@@ -70,4 +74,8 @@ JSCalhas/
 | Tablet | 768px - 991px | Menu Hambúguer ativo |
 | Mobile | < 768px  | Empilhamento vertical 
 
+<<<<<<< HEAD
 ##
+=======
+##
+>>>>>>> 5bb2131 (Descrição da alteração)
