@@ -70,8 +70,5 @@ JSCalhas/
 | Tablet | 768px - 991px | Menu Hambúguer ativo |
 | Mobile | < 768px  | Empilhamento vertical 
 
-<<<<<<< HEAD
 ##
-=======
-##
->>>>>>> 5bb2131 (Descrição da alteração)
+
