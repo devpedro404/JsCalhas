@@ -1,4 +1,3 @@
-// script.js - JSCalhas
 // Módulos de funcionalidades: serviços, galeria, orçamento, avaliação, slider, accordion, animações etc.
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -87,12 +86,12 @@ document.addEventListener('DOMContentLoaded', () => {
   
   // ---------- GALERIA PROJETOS ----------
   const projetos = [
-    { categoria: 'calhas', img: 'https://tse1.mm.bing.net/th/id/OIP.Y9Un6-M5hoz8jCMF27UjlAHaEH?rs=1&pid=ImgDetMain&o=7&rm=3', alt: 'Calhas residenciais' },
-    { categoria: 'rufos', img: 'https://casaeconstrucao.org/wp-content/uploads/2021/10/o-que-e-rufo-pingadeira-1.jpg', alt: 'Instalação de rufos' },
-    { categoria: 'telhados', img: 'https://arkpad.com.br/wp-content/uploads/2022/01/TELHA-COLONIAL75.jpg', alt: 'Telhado cerâmico' },
-    { categoria: 'calhas', img: 'https://th.bing.com/th/id/R.fa7952b70ec4d2ee1b6dee11167168ce?rik=uxeqjLTmtOSW2w&riu=http%3a%2f%2fcardivem.com.br%2fimagens%2finformacoes%2fcalha-aluminio-03.jpg&ehk=%2bj6fFTII3ohmsHaFIT9x2fdob179iz1iMS%2fWa6eq75Q%3d&risl=&pid=ImgRaw&r=0', alt: 'Calhas de alumínio' },
-    { categoria: 'telhados', img: 'https://img.freepik.com/fotos-premium/parte-superior-do-telhado-de-fundo-industrial-estruturas-de-telhado-de-edificio-industrial-estrutura-de-telhado-industrial-fundo-e-textura-de-estruturas-de-aco-e-lampada_38810-9627.jpg?w=1380', alt: 'Telhado industrial' },
-    { categoria: 'rufos', img: 'https://4.bp.blogspot.com/-BF67zlL2OOM/WUxGYIc_kFI/AAAAAAAABac/ldntT5QE5wQvxCVSafwKExiB2HmEZNCmACLcBGAs/s1600/IMG_20170531_150028326.jpg', alt: 'Rufo em cobertura' }
+    { categoria: 'calhas', img: 'https://tse4.mm.bing.net/th/id/OIP.7GKVP3lEv9HIH1Hqz58mpgHaFj?rs=1&pid=ImgDetMain&o=7&rm=3', alt: 'Calhas residenciais' },
+    { categoria: 'rufos', img: 'https://2.bp.blogspot.com/-yeKQ9WslCNI/T7OsVe74JGI/AAAAAAAAABY/1jypFkgQNAI/s1600/2012-05-02+14.52.16.jpg', alt: 'Instalação de rufos' },
+    { categoria: 'telhados', img: 'https://1.bp.blogspot.com/-tC0Gdg7UMbo/XlcIhPO8plI/AAAAAAAAI9w/UjSPnYNOySAfeUXDeoBuvJkkOwGrPkJvQCLcBGAsYHQ/s1600/Telhado%2Bcolonial%2Bcom%2Bvidro.jpg', alt: 'Telhado cerâmico' },
+    { categoria: 'calhas', img: 'https://desentupidoraemportoalegre.com/wp-content/uploads/2018/02/calha-aluminio-deficnicao-o-que-e-tipos-advento-desentupidora-porto-alegre-2.jpg', alt: 'Calhas de alumínio' },
+    { categoria: 'telhados', img: 'https://grupomb.ind.br/wp-content/uploads/2018/07/telhado-para-galpao-industrial-blog-scaled-1.jpg', alt: 'Telhado industrial' },
+    { categoria: 'rufos', img: 'https://casaeconstrucao.org/wp-content/uploads/2021/10/Design-sem-nome-2021-10-28T163340.386.png', alt: 'Rufo em cobertura' }
   ];
   
   const galeriaGrid = document.getElementById('galeriaGrid');
